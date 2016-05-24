@@ -1,12 +1,12 @@
-# Project: Business Card
+# Project: Madlibs
 
-#### _A form that will take information from a user and make a business card, version 1.0, current as of 5.24.2016._
+#### _Old-fashioned Madlibs, version 1.0, current as of 5.24.2016._
 
 #### By _**Anthony C. Gold**_
 
 ## Description
 
-This is some introductory noodling in PHP. It will create a website that takes information from a user and makes a business card.
+This is some introductory noodling in PHP. It will create a website that takes information from a user and makes a Madlib.
 
 ## Setup/Installation Requirements
 
@@ -18,11 +18,11 @@ This is some introductory noodling in PHP. It will create a website that takes i
 
 ## Known Bugs
 
-_Ignorance is bliss (None)_
+_Ignorance is bliss (None)._
 
 ## Support and contact details
 
-Questions? Concerns? Pathos? Pizza? Email: anthgold-at-gmail.com
+Questions? Concerns? Sympathy? Sushi? Email: anthgold-at-gmail.com
 
 ## Technologies Used
 
