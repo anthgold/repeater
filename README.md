@@ -1,12 +1,12 @@
-# Project: Madlibs
+# Project: Repeater
 
-#### _Old-fashioned Madlibs, version 1.0, current as of 5.24.2016._
+#### _Make a form that lets the user decide what string they want repeated and how many times, version 1.0, current as of 5.24.2016._
 
 #### By _**Anthony C. Gold**_
 
 ## Description
 
-This is some introductory noodling in PHP. It will create a website that takes information from a user and makes a Madlib.
+This is some introductory noodling in PHP. It will make a form that lets the user decide what string they want repeated and how many times.
 
 ## Setup/Installation Requirements
 
